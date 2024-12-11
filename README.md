@@ -98,7 +98,7 @@ Here’s a quick look at my GitHub stats and streaks:
 
 - **Email**: [tanviranzum70@gmail.com](mailto:tanviranzum70@gmail.com)  
 - **GitHub**: [aanzum7](https://github.com/aanzum7)  
-- **LinkedIn**: [Tanvir Anzum](https://www.linkedin.com/in/tanviranzum/)  
+- **LinkedIn**: [Tanvir Anzum](https://www.linkedin.com/in/aanzum/)  
 - **Google Scholar**: [Tanvir Anzum](https://scholar.google.com/citations?user=aanzum)
 
 ---
