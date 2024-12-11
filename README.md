@@ -8,9 +8,9 @@
 
 ## About Me
 
-Hey there! 👋 I’m a **Data Analyst** with a strong passion for **Machine Learning** (ML), **Natural Language Processing** (NLP), and **Data Science**. My goal is to use data to make smarter decisions, create **personalized content recommendation engines**, and drive business growth. I'm continuously learning and excited to explore new technologies and research areas.
+I’m an experienced **Data Analyst** specializing in **data analysis**, **data visualization**, and **research**. I’m dedicated to leveraging data to drive strategic decision-making. My work focuses on **growth hacking strategies** and the development of **personalized content recommendation engines** using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques.
 
-I’m currently diving deeper into **NLP** and **AI** to enhance my skills and contribute to innovative solutions. Let’s connect if you’re into **ML**, **NLP**, or **AI** — I’d love to collaborate! 🤝
+I’m passionate about pursuing advanced studies and contributing to cutting-edge research in **data science** and **machine learning**. Let’s connect if you’re interested in exploring these exciting fields! 🤝
 
 ---
 
@@ -19,10 +19,10 @@ I’m currently diving deeper into **NLP** and **AI** to enhance my skills and c
 I love working with these technologies! 🚀
 
 **Programming Languages:**  
-- Python, C++, HTML, CSS, SQL, MATLAB, C
+- Python, SQL
 
 **Tools & Frameworks:**  
-- TensorFlow, OpenCV, Git, MySQL, Node.js, Bootstrap, Tailwind CSS, Illustrator, Photoshop, Figma
+- TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Git, MySQL, PostgreSQL, BigQuery, Google Cloud Platform (GCP)
 
 **Core Expertise:**  
 - **Machine Learning (ML)**  
@@ -65,7 +65,7 @@ GPA: **3.89/4.00**
 I’m currently open to collaboration on the following:
 
 - **Research Projects** in **Data Science** and **Machine Learning**  
-- Building and enhancing **Content Recommendation Engines**  
+- Building and enhancing **Recommendation Engines**  
 - **NLP** and **AI** innovations  
 - **Growth Hacking** strategies using **data insights**  
 
