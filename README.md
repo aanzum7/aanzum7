@@ -1,16 +1,16 @@
 # 🌟 Hello! I’m Tanvir Anzum 👨‍💻
 
 **Location:** Dhaka, Bangladesh | **Email:** [tanviranzum70@gmail.com](mailto:tanviranzum70@gmail.com)  
-🔗 **GitHub:** [aanzum7](https://github.com/aanzum7) | **LinkedIn:** [Tanvir Anzum](https://www.linkedin.com/in/aanzum/)  
-🔗 **Google Scholar:** [Tanvir Anzum](https://scholar.google.com/citations?user=aanzum)
+🔗 **LinkedIn:** [Tanvir Anzum](https://www.linkedin.com/in/aanzum/) | **Google Scholar:** [Tanvir Anzum](https://scholar.google.com/citations?user=aanzum)  
+🔗 **ResearchGate:** [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum) | **Credly:** [Tanvir Anzum](https://www.credly.com/users/tanvir-anzum/)
 
 ---
 
 ## About Me
 
-I’m an experienced **Data Analyst** specializing in **data analysis**, **data visualization**, and **research**. I’m dedicated to leveraging data to drive strategic decision-making. My work focuses on **growth hacking strategies** and the development of **personalized content recommendation engines** using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques.
+I’m an experienced **Data Analyst** specializing in **data analysis**, **data visualization**, and **research**. I’m passionate about leveraging data to drive strategic decision-making. My work focuses on **growth hacking strategies** and developing **personalized content recommendation engines** using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques.
 
-I’m passionate about pursuing advanced studies and contributing to cutting-edge research in **data science** and **machine learning**. Let’s connect if you’re interested in exploring these exciting fields! 🤝
+I’m committed to pursuing advanced studies and contributing to cutting-edge research in **data science** and **machine learning**. Let's connect if you're interested in exploring these fields together! 🤝
 
 ---
 
@@ -47,8 +47,8 @@ GPA: **3.89/4.00**
 
 ## 📖 Publications & Research
 
-- **Machine Learning Algorithm to Predict Fraudulent Loan Requests** (2021) – Co-authored with a focus on enhancing financial security using ML. Published in **IEEE Xplore**.
-- **Traffic Sign Recognition System (TSRS)** (2020) – Co-authored with SVM and CNN techniques for improving traffic sign detection. Published in **Springer**.
+- **Machine Learning Algorithm to Predict Fraudulent Loan Requests** (2021) – Co-authored, enhancing financial security using ML. Published in **IEEE Xplore**.
+- **Traffic Sign Recognition System (TSRS)** (2020) – Co-authored, employing SVM and CNN for traffic sign detection. Published in **Springer**.
 
 ---
 
@@ -80,16 +80,13 @@ If you’re working on anything related to these fields, let’s connect and bra
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contributions
 
-Here’s a quick look at my GitHub stats and streaks:
-
+### Overall GitHub Stats
 ![Tanvir Anzum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanzum7&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aanzum7&theme=dark)
 
-## 📈 Top Languages
-
+### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanzum7&langs_count=5&theme=dark)
 
 ---
@@ -97,9 +94,10 @@ Here’s a quick look at my GitHub stats and streaks:
 ## 🤔 How Can You Reach Me?
 
 - **Email**: [tanviranzum70@gmail.com](mailto:tanviranzum70@gmail.com)  
-- **GitHub**: [aanzum7](https://github.com/aanzum7)  
 - **LinkedIn**: [Tanvir Anzum](https://www.linkedin.com/in/aanzum/)  
-- **Google Scholar**: [Tanvir Anzum](https://scholar.google.com/citations?user=aanzum)
+- **Google Scholar**: [Tanvir Anzum](https://scholar.google.com/citations?user=aanzum)  
+- **ResearchGate**: [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum)  
+- **Credly**: [Tanvir Anzum](https://www.credly.com/users/tanvir-anzum/)
 
 ---
 
