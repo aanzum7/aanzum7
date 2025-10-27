@@ -1,8 +1,8 @@
 # 🌟 Hello! I’m Tanvir Anzum 👨‍💻
 
 **Location:** Dhaka, Bangladesh | **Email:** [tanviranzum70@gmail.com](mailto:tanviranzum70@gmail.com)  
-🔗 **LinkedIn:** [Tanvir Anzum](https://www.linkedin.com/in/aanzum/) | **Google Scholar:** [Tanvir Anzum](https://scholar.google.com/citations?hl=en&user=o6Jva6cAAAAJ)  
-🔗 **ResearchGate:** [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum) | **Credly:** [Tanvir Anzum](https://www.credly.com/users/aanzum7/)
+🔗 **LinkedIn:** [Tanvir Anzum](https://www.linkedin.com/in/aanzum/) | 🔗 **website:** [Tanvir Anzum](https://sites.google.com/view/anzum7)  
+🔗 **ResearchGate:** [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum) | 🔗**Credly:** [Tanvir Anzum]( https://www.credly.com/users/aanzum7/)
 
 ---
 
