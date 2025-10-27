@@ -2,7 +2,7 @@
 
 **Location:** Dhaka, Bangladesh | **Email:** [tanviranzum70@gmail.com](mailto:tanviranzum70@gmail.com)  
 🔗 **LinkedIn:** [Tanvir Anzum](https://www.linkedin.com/in/aanzum/) | **Google Scholar:** [Tanvir Anzum](https://scholar.google.com/citations?hl=en&user=o6Jva6cAAAAJ)  
-🔗 **ResearchGate:** [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum) | **Credly:** [Tanvir Anzum](https://www.credly.com/users/tanvir-anzum/)
+🔗 **ResearchGate:** [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum) | **Credly:** [Tanvir Anzum](https://www.credly.com/users/aanzum7/)
 
 ---
 
@@ -88,16 +88,6 @@ If you’re working on anything related to these fields, let’s connect and bra
 
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanzum7&langs_count=5&theme=dark)
-
----
-
-## 🤔 How Can You Reach Me?
-
-- **Email**: [tanviranzum70@gmail.com](mailto:tanviranzum70@gmail.com)  
-- **LinkedIn**: [Tanvir Anzum](https://www.linkedin.com/in/aanzum/)  
-- **Google Scholar**: [Tanvir Anzum](https://scholar.google.com/citations?hl=en&user=o6Jva6cAAAAJ)  
-- **ResearchGate**: [Tanvir Anzum](https://www.researchgate.net/profile/Tanvir-Anzum)  
-- **Credly**: [Tanvir Anzum](https://www.credly.com/users/tanvir-anzum/)
 
 ---
 
