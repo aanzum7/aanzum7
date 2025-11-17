@@ -1,4 +1,12 @@
-<h1 align="center">🌟 Hello! I’m <span style="color:#00bfff;">Tanvir Anzum</span> 👨‍💻</h1>
+<div style="text-align:center;">
+    <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkeEj-TtSQOkGgZ06XFEmcKZRYh7kCj4Ar9TNWsIqKoEWxl0lNpzTWtuqnC5iiVgpkTTp1c1N-IfPbBQssiJKRVrrUiXYrfG1IvcanmtSWj3DgasPZgDbYTGQo4xRuFnCb3XvGNG_R3ALJX8sCEh6OOEAaxDOs3zoUMJ5gUd_quNsOQGXoZh_S5yPMk=w16383" 
+         alt="Tanvir Anzum" 
+         style="width:180px; border-radius:50%; margin-bottom:15px;">
+</div>
+
+<h1 align="center">
+    Hello! I’m <span style="color:#00bfff;">Tanvir Anzum</span> 👨‍💻
+</h1>
 
 
 <p align="center">
