@@ -1,6 +1,5 @@
 <h1 align="center">🌟 Hello! I’m <span style="color:#00bfff;">Tanvir Anzum</span> 👨‍💻</h1>
 
-<h3 align="center">📍 Dhaka, Bangladesh · 📧 <a href="mailto:tanviranzum70@gmail.com">tanviranzum70@gmail.com</a></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aanzum/">
