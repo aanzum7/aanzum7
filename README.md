@@ -1,116 +1,331 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00bfff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanvir+Anzum;Data+Analyst;ML+%2F+NLP+Researcher;Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tanvir+Anzum;Data+Analyst;SQL+%7C+BI+%7C+Python;Recommendation+Systems+%7C+NLP;Building+Data-Driven+Solutions" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aanzum/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://sites.google.com/view/anzum7"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.researchgate.net/profile/Tanvir-Anzum"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <a href="https://www.credly.com/users/aanzum7/"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://www.linkedin.com/in/aanzum/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sites.google.com/view/anzum7">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Tanvir-Anzum">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/aanzum7">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
 </p>
 
----
-
-### 🧠 About Me
-
-I’m a **Data Analyst & ML/NLP Researcher** who loves building intelligent systems, optimizing ETL pipelines, and uncovering insights that drive growth. 
-
-* 🚀 **Core Focus:** Machine Learning, Natural Language Processing, and Recommendation Systems.
-* 🛠️ **What I Do:** Build robust analytics dashboards, automate data scraping, and deploy scalable ML models.
-* 🎓 **Next Adventure:** Deepening my research footprint in advanced AI.
 
 ---
 
-### 🔧 Tech Stack
+# 👋 About Me
 
-<details open>
-<summary><b>🌐 Languages & Cloud Databases</b></summary>
-<br>
+I am a **Data Analyst with 5 years of experience** in **data analytics, data engineering, and applied AI solutions**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-</details>
+My work focuses on transforming raw data into actionable insights through:
 
-<details>
-<summary><b>🤖 ML, NLP & Data Frameworks</b></summary>
-<br>
+- 📊 **SQL-based analytics & BI dashboards**
+- 🔍 **Exploratory Data Analysis (EDA)**
+- ⚙️ **ETL pipelines & automation**
+- 📈 **Data visualization & product analytics**
+- 🤖 **Recommendation systems, NLP & applied machine learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-</details>
+Currently working as a **Software Engineer (Data Analytics Focus)** at **Brain Station 23**, supporting a UK-based client with database exploration, data preparation, analytics workflows, and ML readiness.
+
+Incoming **Master's student at TUHH (Hamburg)** and interested in **Werkstudent opportunities in Data Analytics, BI, Data Engineering, and Applied AI.**
+
 
 ---
 
-### 🚀 Featured Projects
+# 💼 Professional Experience
 
-| 🧩 Project | 💬 Description | Tech Stack |
-|------------|----------------|------------|
-| **Recommendation Engine** | Personalized recommender system utilizing collaborative filtering. | Python, Transformers |
-| **News NLP Pipeline** | Advanced topic modeling and entity extraction for news text. | NLP, Python |
-| **Fraud Loan Predictor** | ML-based financial risk mitigation system. | Scikit-Learn, Python |
-| **Interactive Analytics Dashboards** | End-to-end data pipelines paired with dynamic visualizations. | Streamlit, Plotly, GCP |
 
----
+## 🏢 Software Engineer (Data Analytics Focus)
+### Brain Station 23 | Dhaka, Bangladesh
 
-### 📚 Background & Research
+**May 2026 - Present**
 
-<details>
-<summary>🎓 <b>Education (Click to expand)</b></summary>
+Working on data exploration and analytics preparation for a UK-based client.
 
-* **B.Sc. in Computer Science & Engineering**  
-  *Daffodil International University* (GPA: **3.89 / 4.00**)  
-  *Thesis:* Traffic Sign Recognition System using SVM and CNN architectures.
-</details>
+### Responsibilities
 
-<details>
-<summary>📘 <b>Publications (Click to expand)</b></summary>
+- Extracted and analyzed data from **MariaDB/MySQL databases**
+- Performed **data profiling, cleaning, and transformation**
+- Conducted **EDA using Python and Jupyter Notebooks**
+- Developed reusable Python scripts for data preprocessing
+- Built **Streamlit dashboards** for EDA and ML readiness analysis
+- Prepared datasets for future analytics and modeling workflows
 
-1. **Machine Learning Algorithm to Predict Fraudulent Loan Requests (2021)**  
-   *Published in IEEE Xplore* — Focus on enhancing financial security via predictive modeling.
-2. **Traffic Sign Recognition System (2020)**  
-   *Published in Springer* — Computer vision pipelines combining SVM + CNN.
-</details>
 
 ---
 
-### 📊 GitHub Activity
+## 📰 Data Analyst
+### Prothom Alo | Dhaka, Bangladesh
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aanzum7&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanzum7&layout=compact&theme=tokyonight" />
-</p>
+**May 2023 - May 2026**
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aanzum7&theme=tokyonight" />
-</p>
+Worked on AI-driven personalization and analytics solutions under the **Google News Initiative**.
+
+### Key Contributions
+
+- Performed user behavior analysis using **Python, Google Colab, BigQuery**
+- Built scalable **ETL pipelines** for content and engagement analytics
+- Developed a personalized **news recommendation engine**
+- Implemented recommendation workflows using:
+
+  - Collaborative Filtering
+  - Content Similarity
+  - Word2Vec embeddings
+
+- Built AI-assisted tagging system for low-resource language content using Gemini
+- Created product dashboards using:
+
+  - Looker Studio
+  - BigQuery
+  - GA4
+
+
+### Impact
+
+🚀 Reduced recommendation pipeline runtime:
+
+**90 minutes → 15 minutes**
+
+🚀 Reduced memory usage by:
+
+**~50%**
+
+🚀 AI tagging achieved:
+
+**~75% accuracy compared with human SEO tagging**
 
 ---
 
-### 🎯 Fun Facts & Interaction
-* 🍫 **Fuel:** Powered primarily by chocolate.  
-* 🌍 **Off-hours:** Passionate about exploring new places and cinema.  
-* 🎬 **Let's play a game:** Drop an issue on one of my repos with your favorite movie recommendation, and I'll add it to my watchlist!
+## 🏪 Data Analyst
+### Sheba Platform Limited
+
+**Apr 2021 - Apr 2023**
+
+Analytics support for marketplace and fintech products.
+
+### Contributions
+
+- Developed KPI dashboards
+- Analyzed customer and business metrics
+- Built fraud monitoring workflows
+- Performed customer segmentation
+- Supported growth campaigns with data insights
+
+Impact:
+
+- Improved reporting visibility
+- Supported data-driven marketplace decisions
+- Enabled better customer targeting
+
 
 ---
 
-### 🤝 Let's Connect!
+# 🚀 Featured Data Science Projects
 
-I'm always looking to collaborate on:
-- [ ] 🧠 Cutting-edge ML/NLP research
-- [ ] ⚡ Optimizing BigQuery & GCP data pipelines
-- [ ] 📈 Building high-impact recommendation infrastructure
 
-<p align="center">
-  <a href="mailto:tanviranzum70@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aanzum/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## 📰 InsightInMinutes — AI News Summarizer
 
-<p align="center">⭐️ <i>“Turning data into insight — and insight into impact.”</i></p>
+**GenAI-powered news summarization platform**
+
+A tool that transforms long news articles into concise summaries while preserving:
+
+- Original tone
+- Context
+- Language style
+
+
+### Features
+
+✅ URL-based article extraction  
+✅ AI-powered summarization  
+✅ Multi-language support  
+✅ Context-aware summaries  
+
+
+Tech:
+
+`Python` `LLM` `NLP` `Generative AI`
+
+
+---
+
+## 📚 NovelNexus — Personalized Book Recommendation Engine
+
+A recommendation platform designed to connect readers with books matching their interests.
+
+### Approach
+
+Implemented personalization using:
+
+- User demographics
+- Geographic preferences
+- Collaborative clustering
+- Recommendation algorithms
+
+
+Features:
+
+✅ Personalized recommendations  
+✅ User preference analysis  
+✅ Trending books discovery  
+✅ Similarity-based suggestions
+
+
+Tech:
+
+`Python`
+`Machine Learning`
+`Recommendation Systems`
+`Data Analysis`
+
+
+---
+
+## 📰 Google News Initiative — Personalized News Recommendation System
+
+Built a recommendation solution to improve content discovery.
+
+### Workflow
+
+User behavior data  
+⬇️  
+Feature engineering  
+⬇️  
+Recommendation algorithms  
+⬇️  
+Personalized content ranking
+
+
+Tech:
+
+`Python`
+`Pandas`
+`BigQuery`
+`GCP`
+`Collaborative Filtering`
+`Word2Vec`
+
+
+---
+
+## 📊 EDA & Analytics Dashboard
+
+Interactive analytics platform for dataset understanding and ML preparation.
+
+Features:
+
+- Automated data profiling
+- Missing value analysis
+- Distribution analysis
+- Feature insights
+- ML readiness checks
+
+
+Tech:
+
+`Python`
+`Pandas`
+`Streamlit`
+`Plotly`
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## Data Analytics
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+
+
+## BI & Visualization
+
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![GA4](https://img.shields.io/badge/Google_Analytics-FF6F00?style=for-the-badge)
+
+
+## Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge)
+
+
+## AI / ML
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00599C?style=for-the-badge)
+
+
+---
+
+# 🎓 Education
+
+## Bachelor of Science in Computer Science & Engineering
+
+**Daffodil International University**
+
+GPA: **3.89 / 4.00**
+
+Thesis:
+
+**Traffic Sign Recognition System using SVM and CNN**
+
+---
+
+# 📚 Publications
+
+
+### Machine Learning Algorithm to Predict Fraudulent Loan Requests
+
+IEEE Xplore
+
+- Fraud prediction using machine learning
+- Feature engineering
+- Model evaluation
+
+
+### Traffic Sign Recognition System (TSRS)
+
+Springer
+
+- SVM and CNN based traffic sign recognition
+- Achieved:
+
+SVM: **98.33% accuracy**
+
+CNN: **96.40% accuracy**
+
+
+---
+
+# 🤝 Let's Connect
+
+Interested in:
+
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- ⚙️ Data Engineering
+- 🤖 Recommendation Systems
+- 🧠 Applied AI
+
+
+⭐ Turning data into insights and insights into impact.
