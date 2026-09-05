@@ -24,53 +24,40 @@
 
 ## 👨‍💻 About Me
 
-Data professional with **5 years of experience** in data analytics, data engineering, and applied machine learning. Experienced in exploratory data analysis (EDA), SQL-based analytics, data pipelines, workflow automation, and data visualization to deliver data-driven insights that support strategic business and product decisions.
+Data professional with **5 years of experience** specializing in **Data Analytics, Data Engineering, and Applied AI**.
 
-Skilled in architecting analytics solutions, recommendation systems, personalization techniques, and machine learning applications using Python, SQL, cloud platforms, and modern data tools.
-
-- 🏢 **Software Engineer II (Data Analytics Focus)** at **Brain Station 23**
-- 📰 Former **Data Analyst** at **Prothom Alo** *(Google News Initiative project)*
-- 🏪 Former **Data Analyst** at **Sheba Platform Ltd.** *(Fintech & Marketplace analytics)*
-- 🎓 Incoming Master’s student at **Hamburg University of Technology (TUHH)**
-- 📍 Seeking a **Werkstudent opportunity** in Data Analytics, Business Intelligence, Data Engineering, or Applied AI in **Hamburg, Germany**
+- 📊 **Core Focus**: SQL-based analytics, ETL pipelines, automated workflows, and BI dashboards.
+- 🤖 **Applied ML**: Recommendation engines, personalization algorithms, and LLM integrations.
+- 🎓 **Education**: Incoming Master's student at **Hamburg University of Technology (TUHH)**.
+- 📍 **Status**: Seeking a **Werkstudent** position in **Hamburg, Germany** (Data Analytics / BI / Data Engineering / Applied AI).
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Software Engineer II (Data Analytics Focus) — **Brain Station 23**
+### 🏢 Software Engineer II — Brain Station 23
 *May 2026 – August 2026 | Dhaka, Bangladesh*
-
-- Explored, cleaned, and profiled **MariaDB/MySQL** databases, executing large-scale data extraction and transformation.
-- Performed comprehensive EDA using **Jupyter Notebooks** and developed modular, reusable Python data cleaning scripts.
-- Built interactive **Streamlit** EDA & ML readiness dashboards for dataset understanding and model preparation.
-
----
-
-### 📰 Data Analyst — **Prothom Alo**
-*May 2023 – May 2026 | Dhaka, Bangladesh*  
-*Developed AI-driven personalization and analytics solutions to enhance content discovery and engagement under the **Google News Initiative**.*
-
-- Developed a personalized content recommendation engine using **collaborative filtering** and **Word2Vec** embeddings.
-- Built an AI-assisted tagging system for low-resource languages using **Gemini** (~75% accuracy vs. human SEO), enabling human-in-the-loop production workflows.
-- Built and maintained scalable **ETL pipelines** for large-scale content processing and user engagement analytics.
-- Designed executive dashboards and tracked product KPIs with **Looker Studio**, **BigQuery**, and **GA4**.
-- 🚀 **Impact**:
-  - Achieved Google News Initiative milestones, securing continued project funding.
-  - Optimized the recommendation pipeline, slashing runtime from **90 to 10 minutes** and reducing memory consumption by **~50%**.
+- Explored, cleaned, and transformed **MariaDB/MySQL** databases.
+- Developed modular Python scripts for EDA & data preprocessing in **Jupyter Notebooks**.
+- Built **Streamlit** EDA & ML readiness dashboards for dataset profiling.
 
 ---
 
-### 🏪 Data Analyst — **Sheba Platform Ltd.**
-*April 2021 – April 2023 (Data Analyst) | Dec 2020 – March 2021 (Intern) | Dhaka, Bangladesh*  
-*Led analytics for the fintech-enabled MSME app and Sheba.xyz marketplace, driving data-driven growth, operational efficiency, and fraud oversight.*
+### 📰 Data Analyst — Prothom Alo
+*May 2023 – May 2026 | Dhaka, Bangladesh (Google News Initiative)*
+- Developed personalized recommendation engines using **collaborative filtering** and **Word2Vec**.
+- Built an AI tagging system with **Gemini** (~75% accuracy vs. human SEO) for production workflows.
+- Built scalable **ETL pipelines** and monitored KPIs using **Looker Studio**, **BigQuery**, and **GA4**.
+- 🚀 **Impact**: Reduced recommendation pipeline runtime from **90 to 10 min** and memory usage by **~50%**; achieved project funding milestones.
 
-- Delivered actionable analytics for **Sheba Pay** fintech, supporting EMI and digital transaction features.
-- Designed role-based fraud detection queries in **MySQL** to prevent operational vulnerabilities and financial leakage.
-- Detected fintech product breaches caused by third-party payment gateway errors, directly informing product strategy and feature discontinuation.
-- Conducted customer segmentation and RFM/E clustering to optimize performance marketing campaigns.
-- Built centralized dashboards for business (SME partners, KAM KPIs) and product health (CRASH, ANR, feature outcomes, P&L).
-- 🚀 **Impact**: Automated segmentation improved customer targeting; centralized dashboards enabled real-time visibility and supported **~65% of marketplace sales** generated by 120+ telesales operators.
+---
+
+### 🏪 Data Analyst — Sheba Platform Ltd.
+*Dec 2020 – April 2023 | Dhaka, Bangladesh*
+- Provided product & transaction analytics for **Sheba Pay** fintech (EMI & payment gateways).
+- Designed role-based fraud detection queries in **MySQL** to prevent operational losses.
+- Conducted customer segmentation (**RFM/E**) and created centralized business & product health dashboards.
+- 🚀 **Impact**: Automated segmentation supported **~65% of marketplace sales** generated by 120+ telesales agents.
 
 ---
 
@@ -124,13 +111,9 @@ Skilled in architecting analytics solutions, recommendation systems, personaliza
 <p align="center">
 AI-powered news summarization platform.
 <br><br>
-<b>Key Features:</b><br>
-✅ URL-based automated extraction<br>
-✅ GenAI summaries with Gemini<br>
-✅ Context & tone preservation<br>
-✅ Multi-language support<br>
+<b>Features:</b> URL extraction, GenAI summarization, context preservation, multi-language support.<br>
 <br>
-<b>Tech:</b> Python • NLP • LLMs • Gemini
+<b>Tech:</b> Python • NLP • Gemini
 </p>
 
 </td>
@@ -140,11 +123,7 @@ AI-powered news summarization platform.
 <p align="center">
 Personalized book recommendation engine.
 <br><br>
-<b>Key Features:</b><br>
-✅ User preference & demographic analysis<br>
-✅ Collaborative filtering algorithms<br>
-✅ Similarity-based recommendations<br>
-✅ High-precision reading suggestions<br>
+<b>Features:</b> Preference profiling, collaborative filtering, similarity-based matching.<br>
 <br>
 <b>Tech:</b> Python • Scikit-Learn • RecSys
 </p>
@@ -154,15 +133,11 @@ Personalized book recommendation engine.
 <tr>
 <td width="50%">
 
-<h3 align="center">📰 Personalized News Recommendation</h3>
+<h3 align="center">📰 News Recommender</h3>
 <p align="center">
-Google News Initiative production solution.
+Google News Initiative personalization pipeline.
 <br><br>
-<b>Key Features:</b><br>
-✅ Collaborative filtering & Word2Vec<br>
-✅ 90 min ➔ 10 min pipeline speedup<br>
-✅ 50% memory consumption reduction<br>
-✅ User behavior & engagement modeling<br>
+<b>Features:</b> Collaborative filtering, Word2Vec, 90m ➔ 10m speedup, 50% memory reduction.<br>
 <br>
 <b>Tech:</b> Python • BigQuery • GCP • Word2Vec
 </p>
@@ -170,17 +145,13 @@ Google News Initiative production solution.
 </td>
 <td width="50%">
 
-<h3 align="center">📊 EDA & ML Readiness Dashboard</h3>
+<h3 align="center">📊 EDA & ML Dashboard</h3>
 <p align="center">
-Interactive analytics platform for dataset exploration.
+Interactive analytics & ML readiness platform.
 <br><br>
-<b>Key Features:</b><br>
-✅ Automated data profiling & cleaning<br>
-✅ Missing value & distribution analysis<br>
-✅ ML feature readiness verification<br>
-✅ Dynamic interactive visualizations<br>
+<b>Features:</b> Automated data profiling, quality checks, distribution analysis, visualization.<br>
 <br>
-<b>Tech:</b> Streamlit • Pandas • Plotly • Python
+<b>Tech:</b> Streamlit • Pandas • Plotly
 </p>
 
 </td>
@@ -191,39 +162,30 @@ Interactive analytics platform for dataset exploration.
 
 # 📚 Research & Publications
 
-- 📄 **Machine Learning Algorithm to Predict Fraudulent Loan Requests**  
-  *Published in IEEE Xplore*  
-  Fraud detection modeling, feature engineering, and performance benchmarking for financial risk mitigation.
+- 📄 **Machine Learning Algorithm to Predict Fraudulent Loan Requests** — *IEEE Xplore*  
+  Fraud prediction modeling, feature engineering, and model evaluation.
 
-- 📄 **Traffic Sign Recognition System (TSRS): SVM and Convolutional Neural Network**  
-  *Published in Springer*  
-  Computer vision pipeline combining SVM (**98.33% accuracy**) and CNN (**96.40% accuracy**) for robust real-time image recognition.
+- 📄 **Traffic Sign Recognition System (TSRS)** — *Springer*  
+  Computer vision pipeline combining SVM (**98.33% accuracy**) and CNN (**96.40% accuracy**).
 
 ---
 
 # 🎓 Education & Certifications
 
-### 🎓 Education
-- **Hamburg University of Technology (TUHH)** — Master of Science (Incoming)
-- **Daffodil International University (DIU)** — Bachelor of Science, Computer Science and Engineering *(2016 – 2020)*  
-  - *CGPA: 3.89 / 4.00 | Honors: Waiver on SGPA*
-- **Institute of Business Administration (IBA), University of Dhaka** — Advanced Certificate for Management Professionals (ACMP 4.0) *(Oct 2024 – Jan 2025)*
+- 🎓 **Hamburg University of Technology (TUHH)** — M.Sc. *(Incoming)*
+- 🎓 **Daffodil International University (DIU)** — B.Sc. in Computer Science & Engineering *(CGPA: 3.89/4.00, Waiver on SGPA)*
+- 📜 **IBA, University of Dhaka** — Advanced Certificate for Management Professionals (ACMP 4.0)
 
-### 📜 Certifications
-- 🔹 **How to Build a BI Dashboard Using Google Data Studio and BigQuery**
-- 🔹 **Python for Data Science, AI & Development**
-- 🔹 **Introduction to Generative AI Studio**
-- 🔹 **Data Visualization and Dashboards with Excel and Cognos**
-- 🔹 **Technical Support Fundamentals**
+**Certifications:**
+- 🔹 How to Build a BI Dashboard Using Google Data Studio and BigQuery
+- 🔹 Python for Data Science, AI & Development
+- 🔹 Introduction to Generative AI Studio
+- 🔹 Data Visualization and Dashboards with Excel and Cognos
+- 🔹 Technical Support Fundamentals
 
 ---
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanzum7&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanzum7&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanzum7&theme=tokyonight&hide_border=true"/>
@@ -240,11 +202,6 @@ Interactive analytics platform for dataset exploration.
   <a href="https://www.researchgate.net/profile/Tanvir-Anzum"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="https://www.credly.com/users/aanzum7"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
-
-🎯 **Currently seeking a Werkstudent opportunity in Hamburg, Germany** in:
-- 📊 Data Analytics & Business Intelligence
-- ⚙️ Data Engineering & ETL Pipelines
-- 🤖 Applied AI & Recommendation Systems
 
 <p align="center">
   <i>⭐ Turning data into insights and insights into impact.</i>
