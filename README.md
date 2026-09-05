@@ -1,262 +1,251 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanvir+Anzum;Data+Analyst;SQL+%7C+BI+%7C+Python;Recommendation+Systems+%7C+NLP;Turning+Data+into+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tanvir+Anzum;Data+Analytics+Professional;SQL+%7C+Python+%7C+Business+Intelligence;Recommendation+Systems+%7C+Applied+AI;Incoming+TUHH+Master's+Student;Turning+Data+into+Insights" />
 </h1>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/aanzum/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://sites.google.com/view/anzum7">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome"/>
+<a href="mailto:tanviranzum70@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://sites.google.com/view/anzum7/career-highlights">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://www.researchgate.net/profile/Tanvir-Anzum">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate"/>
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
-
+<a href="https://www.credly.com/users/aanzum7">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
 </p>
 
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
-🚀 **Data Analyst** with 5 years of experience in:
+Data professional with **5 years of experience** in data analytics, data engineering, and applied machine learning. Experienced in exploratory data analysis (EDA), SQL-based analytics, data pipelines, workflow automation, and data visualization to deliver data-driven insights that support strategic business and product decisions.
 
-- 📊 Data Analytics & Business Intelligence
-- 🗄️ SQL, Databases & ETL Pipelines
-- 🐍 Python Automation & Data Processing
-- 📈 Data Visualization & Dashboards
-- 🤖 Recommendation Systems & NLP
+Skilled in architecting analytics solutions, recommendation systems, personalization techniques, and machine learning applications using Python, SQL, cloud platforms, and modern data tools.
 
+- 🏢 **Software Engineer II (Data Analytics Focus)** at **Brain Station 23**
+- 📰 Former **Data Analyst** at **Prothom Alo** *(Google News Initiative project)*
+- 🏪 Former **Data Analyst** at **Sheba Platform Ltd.** *(Fintech & Marketplace analytics)*
+- 🎓 Incoming Master’s student at **Hamburg University of Technology (TUHH)**
+- 📍 Seeking a **Werkstudent opportunity** in Data Analytics, Business Intelligence, Data Engineering, or Applied AI in **Hamburg, Germany**
 
-Currently working as **Software Engineer (Data Analytics Focus)** at **Brain Station 23**.
+---
 
-Previously worked on AI-driven personalization and analytics solutions at **Prothom Alo** under the **Google News Initiative**.
+## 💼 Professional Experience
 
+### 🏢 Software Engineer II (Data Analytics Focus) — **Brain Station 23**
+*May 2026 – August 2026 | Dhaka, Bangladesh*
 
-🎓 Incoming Master's student at **TUHH Hamburg**  
-🔎 Looking for **Werkstudent opportunities in Data Analytics / BI / Data Engineering**
+- Explored, cleaned, and profiled **MariaDB/MySQL** databases, executing large-scale data extraction and transformation.
+- Performed comprehensive EDA using **Jupyter Notebooks** and developed modular, reusable Python data cleaning scripts.
+- Built interactive **Streamlit** EDA & ML readiness dashboards for dataset understanding and model preparation.
 
+---
+
+### 📰 Data Analyst — **Prothom Alo**
+*May 2023 – May 2026 | Dhaka, Bangladesh*  
+*Developed AI-driven personalization and analytics solutions to enhance content discovery and engagement under the **Google News Initiative**.*
+
+- Developed a personalized content recommendation engine using **collaborative filtering** and **Word2Vec** embeddings.
+- Built an AI-assisted tagging system for low-resource languages using **Gemini** (~75% accuracy vs. human SEO), enabling human-in-the-loop production workflows.
+- Built and maintained scalable **ETL pipelines** for large-scale content processing and user engagement analytics.
+- Designed executive dashboards and tracked product KPIs with **Looker Studio**, **BigQuery**, and **GA4**.
+- 🚀 **Impact**:
+  - Achieved Google News Initiative milestones, securing continued project funding.
+  - Optimized the recommendation pipeline, slashing runtime from **90 to 10 minutes** and reducing memory consumption by **~50%**.
+
+---
+
+### 🏪 Data Analyst — **Sheba Platform Ltd.**
+*April 2021 – April 2023 (Data Analyst) | Dec 2020 – March 2021 (Intern) | Dhaka, Bangladesh*  
+*Led analytics for the fintech-enabled MSME app and Sheba.xyz marketplace, driving data-driven growth, operational efficiency, and fraud oversight.*
+
+- Delivered actionable analytics for **Sheba Pay** fintech, supporting EMI and digital transaction features.
+- Designed role-based fraud detection queries in **MySQL** to prevent operational vulnerabilities and financial leakage.
+- Detected fintech product breaches caused by third-party payment gateway errors, directly informing product strategy and feature discontinuation.
+- Conducted customer segmentation and RFM/E clustering to optimize performance marketing campaigns.
+- Built centralized dashboards for business (SME partners, KAM KPIs) and product health (CRASH, ANR, feature outcomes, P&L).
+- 🚀 **Impact**: Automated segmentation improved customer targeting; centralized dashboards enabled real-time visibility and supported **~65% of marketplace sales** generated by 120+ telesales operators.
 
 ---
 
 # 🛠️ Tech Stack
 
-
-### 📊 Analytics
-
+### 📊 Languages & Analytics
 <p>
-
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-
 
 ### 📈 BI & Visualization
-
 <p>
-
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics"/>
-
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-
-### ☁️ Data Engineering
-
+### ☁️ Databases & Cloud Engineering
 <p>
-
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
-
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge"/>
 </p>
 
-
-### 🤖 AI / ML
-
+### 🤖 Applied AI & Machine Learning
 <p>
-
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine_Learning-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recommendation_Systems-0A85EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-
 </p>
-
 
 ---
 
 # 🚀 Featured Projects
 
-
 <table>
-
 <tr>
-
 <td width="50%">
 
 <h3 align="center">📰 InsightInMinutes</h3>
-
 <p align="center">
-
 AI-powered news summarization platform.
-
-Features:
-
-✅ URL-based extraction  
-✅ GenAI summaries  
-✅ Context preservation  
-✅ Multi-language support  
-
-Tech:
-
-Python • NLP • LLM
-
+<br><br>
+<b>Key Features:</b><br>
+✅ URL-based automated extraction<br>
+✅ GenAI summaries with Gemini<br>
+✅ Context & tone preservation<br>
+✅ Multi-language support<br>
+<br>
+<b>Tech:</b> Python • NLP • LLMs • Gemini
 </p>
 
 </td>
-
-
 <td width="50%">
 
 <h3 align="center">📚 NovelNexus</h3>
-
 <p align="center">
-
 Personalized book recommendation engine.
-
-Features:
-
-✅ User preference analysis  
-✅ Collaborative filtering  
-✅ Similarity based recommendations  
-
-Tech:
-
-Python • ML • Recommendation Systems
-
+<br><br>
+<b>Key Features:</b><br>
+✅ User preference & demographic analysis<br>
+✅ Collaborative filtering algorithms<br>
+✅ Similarity-based recommendations<br>
+✅ High-precision reading suggestions<br>
+<br>
+<b>Tech:</b> Python • Scikit-Learn • RecSys
 </p>
 
 </td>
-
 </tr>
-
-
 <tr>
-
 <td width="50%">
 
 <h3 align="center">📰 Personalized News Recommendation</h3>
-
 <p align="center">
-
-Google News Initiative project.
-
-Built recommendation workflows using:
-
-- Collaborative Filtering
-- Word2Vec
-- User behavior analysis
-
-Tech:
-
-Python • BigQuery • GCP
-
+Google News Initiative production solution.
+<br><br>
+<b>Key Features:</b><br>
+✅ Collaborative filtering & Word2Vec<br>
+✅ 90 min ➔ 10 min pipeline speedup<br>
+✅ 50% memory consumption reduction<br>
+✅ User behavior & engagement modeling<br>
+<br>
+<b>Tech:</b> Python • BigQuery • GCP • Word2Vec
 </p>
 
 </td>
-
-
 <td width="50%">
 
-<h3 align="center">📊 Analytics Dashboard</h3>
-
+<h3 align="center">📊 EDA & ML Readiness Dashboard</h3>
 <p align="center">
-
-Interactive EDA and ML readiness dashboards.
-
-Features:
-
-- Data profiling
-- Data quality checks
-- Visualization
-
-Tech:
-
-Streamlit • Pandas • Plotly
-
+Interactive analytics platform for dataset exploration.
+<br><br>
+<b>Key Features:</b><br>
+✅ Automated data profiling & cleaning<br>
+✅ Missing value & distribution analysis<br>
+✅ ML feature readiness verification<br>
+✅ Dynamic interactive visualizations<br>
+<br>
+<b>Tech:</b> Streamlit • Pandas • Plotly • Python
 </p>
 
 </td>
-
 </tr>
-
 </table>
-
 
 ---
 
 # 📚 Research & Publications
 
+- 📄 **Machine Learning Algorithm to Predict Fraudulent Loan Requests**  
+  *Published in IEEE Xplore*  
+  Fraud detection modeling, feature engineering, and performance benchmarking for financial risk mitigation.
 
-📄 **Machine Learning Algorithm to Predict Fraudulent Loan Requests**
+- 📄 **Traffic Sign Recognition System (TSRS): SVM and Convolutional Neural Network**  
+  *Published in Springer*  
+  Computer vision pipeline combining SVM (**98.33% accuracy**) and CNN (**96.40% accuracy**) for robust real-time image recognition.
 
-IEEE Xplore
+---
 
-- Fraud detection using ML
-- Feature engineering
-- Model evaluation
+# 🎓 Education & Certifications
 
+### 🎓 Education
+- **Hamburg University of Technology (TUHH)** — Master of Science (Incoming)
+- **Daffodil International University (DIU)** — Bachelor of Science, Computer Science and Engineering *(2016 – 2020)*  
+  - *CGPA: 3.89 / 4.00 | Honors: Waiver on SGPA*
+- **Institute of Business Administration (IBA), University of Dhaka** — Advanced Certificate for Management Professionals (ACMP 4.0) *(Oct 2024 – Jan 2025)*
 
-📄 **Traffic Sign Recognition System**
-
-Springer
-
-- SVM + CNN based recognition
-- Computer vision pipeline
-
+### 📜 Certifications
+- 🔹 **How to Build a BI Dashboard Using Google Data Studio and BigQuery**
+- 🔹 **Python for Data Science, AI & Development**
+- 🔹 **Introduction to Generative AI Studio**
+- 🔹 **Data Visualization and Dashboards with Excel and Cognos**
+- 🔹 **Technical Support Fundamentals**
 
 ---
 
 # 📊 GitHub Stats
 
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aanzum7&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanzum7&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aanzum7&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanzum7&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanzum7&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanzum7&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
 # 🤝 Let's Connect
 
-I am interested in:
+<p align="center">
+  <a href="https://www.linkedin.com/in/aanzum/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tanviranzum70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/anzum7/career-highlights"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Tanvir-Anzum"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/aanzum7"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
+</p>
 
-📊 Data Analytics  
-📈 Business Intelligence  
-⚙️ Data Engineering  
-🤖 Recommendation Systems  
-🧠 Applied AI
+🎯 **Currently seeking a Werkstudent opportunity in Hamburg, Germany** in:
+- 📊 Data Analytics & Business Intelligence
+- ⚙️ Data Engineering & ETL Pipelines
+- 🤖 Applied AI & Recommendation Systems
 
-
-⭐ Turning data into insights and insights into impact.
+<p align="center">
+  <i>⭐ Turning data into insights and insights into impact.</i>
+</p>
